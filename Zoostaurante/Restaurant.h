@@ -8,6 +8,6 @@ public:
 	Restaurant();
 	~Restaurant();
 
-	void poneComida();
+	void poneComida(); 
 };
 
